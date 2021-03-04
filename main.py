@@ -25,7 +25,7 @@ def calculate_simple():
     #       "variables form the formula for the simple interest, which is expressed as such:\n\n"
     #       "I = Prt\n\nWhere:\nI = Interest\nP = Principal\nr = Interest Rate\nt = Interest Period (must be in "
     #       "year unit)\n\n")
-    p = input("\nEnter your principal (P) :")
+    p = input("\nEnter your principal (P): ")
     r = input("Enter interest rate (in decimal form) (r): ")
     t = input("Enter interest period (in years) (t): ")
 
